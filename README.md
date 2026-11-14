@@ -2,7 +2,7 @@
 
 A community-maintained directory of public MCP (Model Context Protocol) servers. Find one to use, or list yours.
 
-This is the **directory** repo. If you want to build your own MCP server, see [claude-mcp-starter](https://github.com/0xelitesystem/claude-mcp-starter). For the protocol spec itself, see [modelcontextprotocol.io](https://modelcontextprotocol.io).
+This is the **directory** repo. If you want to build your own MCP server, see [mcp-server-minimal-templates](https://github.com/0xelitesystem/mcp-server-minimal-templates). For the protocol spec itself, see [modelcontextprotocol.io](https://modelcontextprotocol.io).
 
 ## What's in this directory
 
@@ -80,6 +80,6 @@ MIT. Each server entry is MIT licensed; copying one into your own list is fine.
 
 ## Related
 
-- [claude-mcp-starter](https://github.com/0xelitesystem/claude-mcp-starter), start your own MCP server
+- [mcp-server-minimal-templates](https://github.com/0xelitesystem/mcp-server-minimal-templates), start your own MCP server
 - [Model Context Protocol](https://modelcontextprotocol.io), the official spec and SDKs
 - [Anthropic MCP servers](https://github.com/modelcontextprotocol/servers), the official server collection
