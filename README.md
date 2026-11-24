@@ -1,4 +1,4 @@
-# mcp-server-registry
+# mcp-public-servers-directory
 
 A community-maintained directory of public MCP (Model Context Protocol) servers. Find one to use, or list yours.
 
