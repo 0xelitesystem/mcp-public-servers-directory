@@ -20,6 +20,7 @@ Auto-generated table from `servers/*.yaml`. To regenerate after adding entries:
 | [Memory](servers/memory.yaml) | TypeScript | stdio | none | stable | data, productivity |
 | [Time](servers/time.yaml) | Python | stdio | none | stable | productivity, other |
 | [Slack](servers/slack.yaml) | TypeScript | stdio | bearer-token | stable | communication, productivity |
+| [Social Fetch](servers/social-fetch.yaml) | TypeScript | http | oauth |  | web, search |
 
 ## Categories
 
